@@ -73,4 +73,18 @@ An image classifier. Must be able to take as an input a satellite image of a lar
 
 A data workflow for text web-scraping, topic classification and inserting into Drupal.
 
- 
+Project description: https://www.unescwa.org/sites/www.unescwa.org/files/u1461/3.3_escwa_google_earth_project.pdf
+Training videos for Machine Learning using Google Earth Engine. https://www.youtube.com/playlist?list=PLRGciy5zhrRpmZOZ1CPNPs2LoBkdvIIZY
+Code examples: 
+
+Day 1:
+https://drive.google.com/file/d/1kQYddNt2OhMEV8feN98E9-YRBU5AcvYa/view?usp=sharing
+https://code.earthengine.google.com/92bf9dc16bbdc3a6eec7963b8cf2e8ea
+https://code.earthengine.google.com/71f3b57a1838686fc23a73449d61d5cc
+https://code.earthengine.google.com/1cdb033892551d6dda4926c10ded85e4
+
+Day 2:
+https://code.earthengine.google.com/8a3358115ba2fef931a8d9029718b657
+https://drive.google.com/file/d/1zt0PfKrr0uF9rvzygkaDkFO0evrPw1tY/view?usp=sharing
+https://drive.google.com/file/d/1ZIoKr_t68v_56vgxivHpW2qKbdLVKYsR/view?usp=sharing
+https://code.earthengine.google.com/a9d88117c03339a8e00897781a1476ad
